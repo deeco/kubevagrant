@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token 4lrcng.jskyf0pflhd1c5ec     --discovery-token-ca-cert-hash sha256:7e6225a3818fe5949a78eeafc1da12dec75545a9e1234c6a505fac0911450f5c 
